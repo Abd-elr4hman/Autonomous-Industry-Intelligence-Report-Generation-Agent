@@ -3,7 +3,7 @@
 Works with a chat model with tool calling support.
 """
 
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Dict, List, Literal, cast
 
 from langchain_core.messages import AIMessage
@@ -40,7 +40,7 @@ async def call_model(
 
     # Format the system prompt. Customize this to change the agent's behavior.
     system_message = configuration.system_prompt.format(
-        system_time=datetime.now(tz=timezone.utc).isoformat()
+        system_time=datetime.now(tz=UTC).isoformat()
     )
 
     # Get the model's response
