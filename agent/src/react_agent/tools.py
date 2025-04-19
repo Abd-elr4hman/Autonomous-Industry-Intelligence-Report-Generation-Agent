@@ -54,4 +54,4 @@ def python_repl_tool(
     return result_str
 
 
-TOOLS: List[Callable[..., Any]] = [search]
+TOOLS: List[Callable[..., Any]] = [search, python_repl_tool]
