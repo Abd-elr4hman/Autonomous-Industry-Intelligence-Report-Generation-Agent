@@ -1,1 +1,3 @@
 langgraph-cli[inmem]
+deepeval
+python-dotenv
