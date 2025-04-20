@@ -34,7 +34,7 @@ return the insights in the format
 ```insights.md
 ```
 
-# Thirdly: Write code to generate charts and plots using matplotlib to visualize your insights
+# Thirdly: Write code to generate charts and plots using matplotlib to visualize your insights, if your code thraws an error or doesn't run try to fix maximum of 3 times then STOP and move to the next step.
 
 # Fourthly: Provide clear and actionable recommendations that can be directly implemented based on the insights. 
 return the recommendation in the format:
