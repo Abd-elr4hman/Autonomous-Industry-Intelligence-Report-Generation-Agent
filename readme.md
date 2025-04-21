@@ -183,9 +183,10 @@ limitations above stifled any opportunity to expirement furthur.
 #### Dev Mode:
 
 1. Clone this repo.
-2. `pip install -r requirements.txt `
-3. `cd agent`
-4. `langgraph run dev `
+2. create a .env file then add needed api keys from `.env.example`
+3. `pip install -r requirements.txt `
+4. `cd agent`
+5. `langgraph run dev `
 
 #### Production:
 
