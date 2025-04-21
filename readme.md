@@ -174,9 +174,9 @@ The results above are obtained with the following limitaions:
 1. API rate limit of a maximum of 30000 token input and 20000 token output.
 2. Only two search results can be returned for a single tavily invocation.
 
-If the limitations above are lifted, an increase in the quantity of the information and its quality is expected to increase...
+If the limitations above are lifted, an increase in the quantity of the information and its quality is expected...
 
-limitations above stifled any opportunity to expirement furthur.
+limitations above stifled any opportunity to experiment furthur.
 
 ## To Run API
 
