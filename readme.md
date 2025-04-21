@@ -164,7 +164,7 @@ Evaluation results were tracked using deepeval framework and Confident-ai platfo
 Our baseline results represented a simple agent with acces to tavily search tool had a low Completeness and Format scores:
 ![alt text](./documentaion_resources/baseline-scores.png)
 
-Our final prompt optemized agent with both search and coding tool and anthropic latest model claude-3.7 was able to achieve very high results with respect to the criteria specified even when limited to only 2 search result per search query and anthropic teired rate limits
+Our final prompt optemized agent with both search and coding tool and anthropic latest model claude-3.7 was able to achieve very high results with respect to the criteria specified even when limited to only 2 search result per search query and anthropic tier rate limits
 ![alt text](./documentaion_resources/final-agent-scores.png)
 
 ### Limitations
