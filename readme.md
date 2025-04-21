@@ -49,7 +49,7 @@ To meet the functional requirements above I will use one of the AI agent framewo
 Specifically I want a framework that implements the "Agentic" pattern, it needs to roughly be able to execute a loop that is can be terminated by an LLM output and should be able to provide cababilites like "tool usage" for an LLM.
 
 It should roughly be able to implement the following diagram in either event driven, graph execution or other:
-![alt text](//documentaion_resources/agentic-pattern.png)
+![alt text](/documentaion_resources/agentic-pattern.png)
 
 a choice of framework that can Implement the agentic pattern will align and satisfy the functional requirements
 
