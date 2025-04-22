@@ -39,7 +39,10 @@ async def search(
 repl = PythonREPL()
 
 
-## TODO: sync function blocks the event loop. needs to either run async or be run in a threadpool
+## TODO: sync function blocks the event loop. needs to:
+# 1. Either run async
+# 2. Or be run in a threadpool
+# 3. Make a nerwork call to a sandbox env to run code
 @tool
 def python_repl_tool(
     code: Annotated[str, "The python code to execute to generate your chart."],
