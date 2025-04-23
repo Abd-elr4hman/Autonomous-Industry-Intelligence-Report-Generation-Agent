@@ -176,7 +176,7 @@ The results above are obtained with the following limitations:
 
 If the limitations above are lifted, an increase in the quantity of the information and its quality is expected...
 
-limitations above stifled any opportunity to experiment furthur.
+limitations above stifled any opportunity to experiment further.
 
 ## To Run API
 
