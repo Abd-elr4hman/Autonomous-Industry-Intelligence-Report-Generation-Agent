@@ -32,16 +32,6 @@ Will also give myself the liberty to extrapolate assumptions to arrive at a work
 
 5. The system should accept a high-level query (e.g., "Generate a strategy intelligence report for the electric vehicle market and its key players") and autonomously handle the entire process, from research to final report generation.
 
-#### Deliverables
-
-1. A working solution that accepts a business-level query and outputs a comprehensive industry report.
-
-2. Clear explanation of your approach, including how the system is structured and how tasks are handled.
-
-3. Sample output demonstrating the final report, which should include sections like market trends, competitor analysis, and strategic recommendations.
-
-4. Documentation explaining how the system works and its workflow from input to output.
-
 ## Architecture
 
 To meet the functional requirements above I will use one of the AI agent frameworks outthere...
